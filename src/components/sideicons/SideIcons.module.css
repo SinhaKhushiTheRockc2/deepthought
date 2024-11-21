@@ -1,0 +1,22 @@
+.sideIcon{
+    width: fit-content;
+    cursor: pointer;
+    line-height: 35px;
+}
+
+.sideIcon img{
+    border-radius: 50%;
+    background-color: blue;
+    padding: 0.5rem;
+}
+
+.sideIconsContainer{
+    position: fixed;
+    right: 0;
+    top:66%;
+}
+
+.sideIcon:hover{
+    transition: 0.4s ease-in-out;
+    transform: scale(1.1);
+}

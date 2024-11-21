@@ -1,0 +1,30 @@
+.parentTaskContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.titleContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #0028ff;
+}
+
+.taskRole{
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+.taskDescContainer{
+    background-color: #e8ebef;
+    padding: 1rem 1.3rem;
+    border-radius: 0.2rem;
+}
+
+.taskTitle{
+    font-weight: bolder;
+}
+
+.taskDes{
+    font-weight: 500;
+}

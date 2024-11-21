@@ -1,0 +1,21 @@
+.btn{
+    background-color: #0028ff;
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 0.8rem 1.2rem;
+    display: flex;
+    justify-content: space-between;
+    gap: 0.5rem;
+    font-size: 1rem;
+    border-radius: 0.6rem;
+    cursor: pointer;
+}
+
+
+.btn:hover{
+    transition: 0.3s ease-in-out;
+    box-shadow: 3px 3px 3px black;
+    transform: scale(0.9);
+    color: rgb(226, 226, 226);
+}

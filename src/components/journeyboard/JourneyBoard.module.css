@@ -1,0 +1,99 @@
+.parentContainer{
+    position: absolute;
+    left: 0;
+    top: 14%;
+    width: 132px;
+    height: 692px;
+    box-shadow: 2px 2px 2px gray;
+    border: 0px solid gray;
+    border-radius: 0.6rem;
+    background-color: white;
+    z-index: 10;
+}
+
+.rightArrowContainer{
+    width: inherit;
+    background-color: black;
+    border-top-left-radius: 0.6rem;
+    border-top-right-radius: 0.6rem;
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
+}
+
+.rightArrowContainer img{
+    border-radius: 0.6rem;
+    cursor: pointer;
+}
+
+.oneContainer{
+    border:2px solid #0028ff;
+    width: fit-content;
+    padding:1rem;
+    border-radius: 0.6rem;
+    color: #0028ff;
+    font-size: 1.1rem;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    font-weight: bolder;
+}
+
+.journeyBoardContainer{
+    position: absolute;
+    left: 0;
+    top: 14%;
+    height: 692px;
+    width: 400px;
+    border-radius: 0.6rem;
+    background-color: white;
+    z-index: 10;
+}
+
+.leftArrowContainer{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    border-top-left-radius: 0.6rem;
+    border-top-right-radius: 0.6rem;
+    padding: 0 1rem;
+}
+
+.leftArrowContainer img{
+    cursor: pointer;
+}
+.journeyBoardTitle{
+    font-size: 1rem;
+}
+
+.task_title{
+    font-size: 1rem;
+    font-weight: bolder;
+}
+
+.assetList{
+    text-indent: 10px;
+}
+
+@media screen and (max-width:768px){
+    .parentContainer{
+        width: 4rem;
+    }
+    .oneContainer{
+        padding: 5px 5px;
+    }
+    .journeyBoardContainer{
+        width: 250px;
+    }
+}
+@media screen and (max-width:640px) {
+    .parentContainer{
+        width: 3rem;
+    }
+
+    .oneContainer{
+        padding: 1px 1px;
+    }
+}
