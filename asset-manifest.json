@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/deepthought/static/css/main.d3df4ae0.css",
+    "main.js": "/deepthought/static/js/main.97b297a7.js",
+    "static/media/user.svg": "/deepthought/static/media/user.657e27f86e95b0b19876be53384317d8.svg",
+    "static/media/meetingRoom.svg": "/deepthought/static/media/meetingRoom.5d26a304dfa7c2048f41c7a894f0dab7.svg",
+    "static/media/calendar.svg": "/deepthought/static/media/calendar.a2b331aa422bbedb2233e62b0fabc2db.svg",
+    "static/media/benchMeeting.svg": "/deepthought/static/media/benchMeeting.ec8fca5160db6ca7de637de81fce37a5.svg",
+    "static/media/questionMark.svg": "/deepthought/static/media/questionMark.cd4da7cc055372bbc0a528c8aaa84457.svg",
+    "static/media/chevron-left.svg": "/deepthought/static/media/chevron-left.62b74b6b9af47f971c5e2a9d23905fb9.svg",
+    "static/media/chevron-right.svg": "/deepthought/static/media/chevron-right.dffd7b696a26c1b065a6ca74b7b49aad.svg",
+    "static/media/logo.svg": "/deepthought/static/media/logo.4663d47685b7e3255b2e5cd5edc4f913.svg",
+    "static/media/home.svg": "/deepthought/static/media/home.bf662eb113759529140dcbb663f8a16e.svg",
+    "static/media/tools.svg": "/deepthought/static/media/tools.bee82cdfbbc7ba96dceebdffd3223c55.svg",
+    "static/media/notificationBell.svg": "/deepthought/static/media/notificationBell.2eac31e3746b554ee56463aa993c50fb.svg",
+    "static/media/kebabMenu.svg": "/deepthought/static/media/kebabMenu.cb9b7151a0b62c6eb63b08aeb1702d7f.svg",
+    "static/media/doubt.svg": "/deepthought/static/media/doubt.4c4c091d3c93a5e53063113c8b77b02f.svg",
+    "static/media/lamp.svg": "/deepthought/static/media/lamp.aeb2aed21071094c5847e0e246f79686.svg",
+    "index.html": "/deepthought/index.html",
+    "static/media/bulb.svg": "/deepthought/static/media/bulb.9cf644373a6e3b4ea8e277349b09a645.svg",
+    "static/media/text.svg": "/deepthought/static/media/text.1ed9a92fd929e4f855a46af4d6c081b5.svg",
+    "main.d3df4ae0.css.map": "/deepthought/static/css/main.d3df4ae0.css.map",
+    "main.97b297a7.js.map": "/deepthought/static/js/main.97b297a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3df4ae0.css",
+    "static/js/main.97b297a7.js"
+  ]
+}
