@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deepthought/static/css/main.d3df4ae0.css",
-    "main.js": "/deepthought/static/js/main.97b297a7.js",
+    "main.js": "/deepthought/static/js/main.29c1a484.js",
     "static/media/user.svg": "/deepthought/static/media/user.657e27f86e95b0b19876be53384317d8.svg",
     "static/media/meetingRoom.svg": "/deepthought/static/media/meetingRoom.5d26a304dfa7c2048f41c7a894f0dab7.svg",
     "static/media/calendar.svg": "/deepthought/static/media/calendar.a2b331aa422bbedb2233e62b0fabc2db.svg",
@@ -20,10 +20,10 @@
     "static/media/bulb.svg": "/deepthought/static/media/bulb.9cf644373a6e3b4ea8e277349b09a645.svg",
     "static/media/text.svg": "/deepthought/static/media/text.1ed9a92fd929e4f855a46af4d6c081b5.svg",
     "main.d3df4ae0.css.map": "/deepthought/static/css/main.d3df4ae0.css.map",
-    "main.97b297a7.js.map": "/deepthought/static/js/main.97b297a7.js.map"
+    "main.29c1a484.js.map": "/deepthought/static/js/main.29c1a484.js.map"
   },
   "entrypoints": [
     "static/css/main.d3df4ae0.css",
-    "static/js/main.97b297a7.js"
+    "static/js/main.29c1a484.js"
   ]
 }
