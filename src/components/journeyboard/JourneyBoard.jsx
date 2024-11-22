@@ -6,7 +6,7 @@ const JourneyBoard = () => {
   const [showJourneyBoard, setShowJourneyBoard] = useState(false);
   const [tasks, setTasks] = useState([]);
   useEffect(() => {
-    fetch("/task.json")
+    fetch("/deepthought/task.json")
       .then((response) => response.json())
       .then((data) => setTasks(data))
       .catch((error) => console.error("Error fetching tasks:", error));

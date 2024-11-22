@@ -7,7 +7,7 @@ import Asset2 from "../assetcontent/Asset2";
 const Card = ({ cardName, description }) => {
   const [tasks, setTasks] = useState([]);
   useEffect(() => {
-    fetch("/task.json")
+    fetch("/deepthought/task.json")
       .then((response) => response.json())
       .then((data) => setTasks(data))
       .catch((error) => console.error("Error fetching tasks:", error));
@@ -29,7 +29,7 @@ const Card = ({ cardName, description }) => {
             </div>
             {asset.asset_content_type === "video" && asset.asset_content && (
               <div>
-                <iframe src={asset.asset_content} height={300} width={517} controls>
+                <iframe src={asset.asset_content} height={300} width={517} controls title="video">
                   the file is not supported by your browser
                 </iframe>
               </div>

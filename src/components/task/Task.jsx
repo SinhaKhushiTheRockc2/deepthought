@@ -5,7 +5,7 @@ import Button from "../button/Button";
 const Task = () => {
   const [tasks, setTasks] = useState([]);
   useEffect(() => {
-    fetch("/task.json")
+    fetch("/deepthought/task.json")
       .then((response) => response.json())
       .then((data) => setTasks(data))
       .catch((error) => console.error("Error fetching tasks:", error));
