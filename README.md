@@ -3,7 +3,7 @@ I developed this website as part of my submission for Round 2 of the internship 
 
 
 ## Hosted Link:
-### 
+### https://sinhakhushitherockc2.github.io/deepthought/
 
 ## Tools Used:
 * jsx
